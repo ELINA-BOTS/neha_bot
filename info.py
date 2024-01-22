@@ -32,7 +32,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
 PICS_JOIN = (environ.get('PICS_JOIN', 'https://graph.org/file/aafda289da8b859cc23aa.jpg')).split()
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5672857559').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1684845460').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002058913959').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -105,8 +105,8 @@ else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
 FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
-URL = "https://delighted-heidi-jpdevloper.koyeb.app/".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://delighted-heidi-jpdevloper.koyeb.app/".format(FQDN, PORT)
+URL = "https://itchy-ania-zisnan876.koyeb.app/".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "https://itchy-ania-zisnan876.koyeb.app/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://delighted-heidi-jpdevloper.koyeb.app/".format(FQDN)
+    URL = "https://itchy-ania-zisnan876.koyeb.app/".format(FQDN)
 else:
-    URL = "https://delighted-heidi-jpdevloper.koyeb.app/".format(FQDN)
+    URL = "https://itchy-ania-zisnan876.koyeb.app/".format(FQDN)
 
 
 
