@@ -30,8 +30,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/+Jpiz-WX76lMzYjJl"),
-                    InlineKeyboardButton('🎬 channel', url='https://t.me/+nvmpM5XeI9I0NTk1')
+                    InlineKeyboardButton('🔍 Gʀᴏᴜᴘ', url="https://t.me/+8rJyExo0kiAzNmE1"),
+                    InlineKeyboardButton('🎬 channel', url='https://t.me/+N2_cQwlDSX9lYzY1')
                 ],[
                     InlineKeyboardButton('🍀 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🍀', callback_data='CHNL_LNK')
                   ]]
@@ -160,8 +160,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton('Owner😎', url=f'https://t.me/WOLVERIN_P'),
-                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+nvmpM5XeI9I0NTk1')
+                                InlineKeyboardButton('Owner😎', url=f'https://t.me/+8rJyExo0kiAzNmE1'),
+                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+N2_cQwlDSX9lYzY1')
                             ],[
                                 InlineKeyboardButton('🚀 Fast Download/Watch Online 🖥', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr 
                             ]
@@ -179,8 +179,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton('Owner😎', url=f'https://t.me/WOLVERIN_P'),
-                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+Jpiz-WX76lMzYjJl')
+                                InlineKeyboardButton('Owner😎', url=f'https://t.me/sahiljoker'),
+                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+N2_cQwlDSX9lYzY1')
                             ],[
                                InlineKeyboardButton('🚀 Fast Download/Watch Online 🖥', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
@@ -336,8 +336,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                         InlineKeyboardButton('Owner😎', url=f'https://t.me/WOLVERIN_P'),
-                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+Jpiz-WX76lMzYjJl')
+                         InlineKeyboardButton('Owner😎', url=f'https://t.me/sahiljoker'),
+                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+N2_cQwlDSX9lYzY1')
                       ],[
                          InlineKeyboardButton('🚀 Fast Download/Watch Online 🖥', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                       
@@ -399,8 +399,8 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                         InlineKeyboardButton('Owner😎', url=f'https://t.me/WOLVERIN_P'),
-                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+Jpiz-WX76lMzYjJl')
+                         InlineKeyboardButton('Owner😎', url=f'https://t.me/sahiljoker'),
+                         InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+N2_cQwlDSX9lYzY1')
                       ],[
                       InlineKeyboardButton('🚀 Fast Download/Watch Online 🖥', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                      ]
@@ -459,8 +459,8 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-               InlineKeyboardButton('Owner😎', url=f'https://t.me/WOLVERIN_P'),
-               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+nvmpM5XeI9I0NTk1')
+               InlineKeyboardButton('Owner😎', url=f'https://t.me/sahiljoker'),
+               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/+N2_cQwlDSX9lYzY1')
              ],[
               InlineKeyboardButton('🚀 Fast Download/Watch Online 🖥', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
              ]
