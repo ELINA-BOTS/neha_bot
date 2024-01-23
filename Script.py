@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>{file_name}
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/+Jpiz-WX76lMzYjJl'>WOLVERIN</a></b>""" 
+<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/sahiljoker'>༺ꗟāԵ𝑢𝚛𝑢𝔤ѻʲѻ༻</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
